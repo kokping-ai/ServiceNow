@@ -1,0 +1,6 @@
+{
+  "name": "Smart Incident Hub",
+  "description": "AI-Powered Incident Consolidation & ServiceNow Automation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
